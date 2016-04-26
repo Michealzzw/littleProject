@@ -1,0 +1,3391 @@
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NR 马尔代夫))
+        (DEG 的))
+      (ADJP
+        (QP (OD 第一))
+        (ADJP (JJ 大)))
+      (NP (NN 支柱) (NN 产业)))
+    (VP (VC 是)
+      (NP (PN 什么)))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (NN 渔业) (PU 、) (NN 航运)
+        (CC 和)
+        (NN 旅游))
+      (VP
+        (NP
+          (CP
+            (IP
+              (VP (VC 是)
+                (NP
+                  (QP (CD 三))
+                  (ADJP (JJ 大))
+                  (NP (NN 经济) (NN 支柱)))))))))
+    (PU ，)
+    (IP
+      (LCP
+        (NP (NT 近年))
+        (LC 来))
+      (PU ，)
+      (PP (P 随着)
+        (NP
+          (DNP
+            (NP (NN 旅游业))
+            (DEG 的))
+          (NP (NN 发展))))
+      (PU ，)
+      (NP (NN 旅游) (NN 收入))
+      (VP
+        (VP
+          (ADVP (AD 已))
+          (VP (VV 达到) (AS 了)
+            (LCP
+              (DNP
+                (NP
+                  (NP (NN 国民))
+                  (ADJP (JJ 总))
+                  (NP (NN 产值)))
+                (DEG 的))
+              (LCP
+                (QP (CD 70%))
+                (LC 以上)))))
+        (PU ，)
+        (VP (VV 成为)
+          (NP
+            (DNP
+              (NP (NR 马尔代夫))
+              (DEG 的))
+            (QP (OD 第一))
+            (NP (NN 支柱) (NN 产业))))))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP
+        (CP
+          (IP
+            (VP
+              (PP (P 从)
+                (LCP
+                  (NP (NN 产业))
+                  (LC 上)))
+              (VP (VV 看)))))
+        (PU ，)
+        (NP
+          (QP (OD 第一))
+          (NP (NN 产业))))
+      (VP
+        (VP (VC 为)
+          (QP (CD 19)))
+        (VP
+          (QP (CD 5429亿)
+            (CLP (M 元))))))
+    (PU ，)
+    (IP
+      (NP
+        (QP (OD 第二))
+        (NP (NN 产业)))
+      (VP (VC 为)
+        (QP
+          (QP (CD 24))
+          (QP (CD 9742亿)
+            (CLP (M 元))))))
+    (PU ，)
+    (IP
+      (NP
+        (QP (OD 第三))
+        (NP (NN 产业)))
+      (VP (VC 为)
+        (QP (CD 19))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NR 马尔代夫))
+      (VP (VC 是)
+        (NP
+          (CLP (M 个))
+          (NP (NN 岛国)))))
+    (PU ，)
+    (IP
+      (NP (NN 陆地) (NN 面积))
+      (VP
+        (ADVP (AD 相当))
+        (VP (VA 狭窄))))
+    (PU ，)
+    (IP
+      (NP (NN 工业) (PU 、) (NN 农业) (NN 水平) (NN 低下) (PU ，) (NN 渔业) (PU 、) (NN 航运)
+        (CC 和)
+        (NN 旅游))
+      (VP (VC 是)
+        (NP
+          (QP (CD 三))
+          (ADJP (JJ 大))
+          (NP (NN 经济) (NN 支柱)))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP (NR 澳大利亚))
+    (VP (VC 是)
+      (NP
+        (CP
+          (IP
+            (NP (NN 南半球) (NN 面积))
+            (VP
+              (ADVP (AD 第几))
+              (VP (VA 大))))
+          (DEC 的))
+        (NP (NN 国家))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP (NN #))
+    (VP
+      (LCP
+        (NP (NN 经济) (NN 发展))
+        (LC 上))
+      (VP (VE 有)
+        (NP
+          (NP
+            (NP
+              (DNP
+                (LCP
+                  (NP
+                    (NP
+                      (NP (NN 世界) (NN 国民))
+                      (ADJP (JJ 总))
+                      (NP (NN 产值)))
+                    (NP (NN 上排)))
+                  (LC 前))
+                (DEG 的))
+              (NP (NN 国家)))
+            (NP (NR 中华))
+            (NP (NN 人民) (NN 共和国)))
+          (PU 、)
+          (NP (NR 日本))
+          (PU ；)
+          (NP
+            (NP
+              (CP
+                (IP
+                  (VP (VV 南半球)
+                    (QP (OD 第一)
+                      (CLP (M 位)))))
+                (DEC 的))
+              (NP (NN 国家)))
+            (NP (NR 澳大利亚))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NN 墨尔本市))
+      (VP (VC 是)
+        (NP
+          (NP
+            (DP (DT 全))
+            (NP
+              (DNP
+                (NP (NR 澳大利亚)
+                  (CC 乃至)
+                  (NR 南半球))
+                (DEG 的))
+              (NP (NN 教育) (NN 中心))))
+          (NP (NN 之一)))))
+    (PU 。)
+    (IP
+      (NP
+        (ADJP (JJ 主要))
+        (NP (NN 大学)))
+      (VP (VE 有)))
+    (PU ：)))
+
+(ROOT
+  (IP
+    (NP
+      (DP (DT 每)
+        (CLP (M 年)))
+      (CP
+        (IP
+          (VP
+            (LCP
+              (NP (NT 11月))
+              (LC 初))
+            (VP (VV 举办))))
+        (DEC 的))
+      (NP (NN 民族) (NN 音乐节)))
+    (VP
+      (VP (VC 是)
+        (DNP
+          (ADJP
+            (NP (NN 南半球))
+            (ADJP (JJ 最大)))
+          (DEG 的)))
+      (PU ，)
+      (VP (VV 吸引)
+        (NP
+          (CP
+            (IP
+              (VP (VV 来自)
+                (NP
+                  (NP (NR 澳大利亚))
+                  (NP (NN 各地)
+                    (CC 和)
+                    (NN 全球)))))
+            (DEC 的))
+          (IP
+            (VP (VV 参加)))
+          (NP (NN 者)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP (NR 阿根廷) (NN 国家) (NN 足球队))
+    (VP (VV 赢得) (AS 过)
+      (NP
+        (QP (CD 多少)
+          (CLP (M 次)))
+        (NP (NR 美洲))
+        (NP (NN 杯) (NN 冠军))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP (NT *) (NT 2007年))
+    (PU ：)
+    (NP (NR 巴西) (NN 国家) (NN 足球队))
+    (VP
+      (PP (P 以)
+        (QP (CD 3:0)))
+      (VP
+        (VP (VV 战胜)
+          (NP
+            (NP (NR 阿根廷))
+            (NP (NN 国家) (NN 足球队))))
+        (VP (VV 获得)
+          (NP
+            (NP (NT 2007年))
+            (NP (NR 美洲) (NN 国家) (NN 盃))
+            (NP (NN 冠军))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (DNP
+          (NP (NR 阿根廷))
+          (DEG 的))
+        (NP (NN 官方) (NN 国家) (NN 运动)))
+      (VP (VC 是)
+        (NP (NN 鸭球))))
+    (PU ，)
+    (IP
+      (NP (PN 这))
+      (VP
+        (VP
+          (VP (VC 是)
+            (QP (CD 一)
+              (CLP (M 种))))
+          (VP (VV 争夺)
+            (NP
+              (QP (CD 六))
+              (NP (NN 柄)))))
+        (VP
+          (ADVP (AD 皮球))
+          (VP (VC 是)
+            (NP
+              (QP (CD 一)
+                (CLP (M 种)))
+              (NP (NN 马背) (NN 运动)))))))
+    (PU ，)
+    (CC 而)
+    (IP
+      (IP
+        (NP
+          (DNP
+            (NP (NR 阿根廷))
+            (DEG 的))
+          (QP (OD 第一))
+          (NP (NN 运动)))
+        (VP (VC 是)
+          (NP (NN 足球))))
+      (PU ，)
+      (IP
+        (NP (NR 阿根廷) (NN 国家) (NN 足球队))
+        (VP (VV 赢得) (AS 过)
+          (NP
+            (QP (CD 25)
+              (CLP (M 个)))
+            (ADJP (JJ 主要))
+            (NP (NN 世界) (NN 冠军)))))
+      (PU ，)
+      (IP
+        (NP (NN 其中))
+        (VP (VV 包括)
+          (NP
+            (NP
+              (NP
+                (NP
+                  (QP (CD 两)
+                    (CLP (M 届)))
+                  (NP (NN 国际) (NN 足联)))
+                (NP (NN 世界盃) (NN 冠军)))
+              (PU 、)
+              (NP
+                (QP (CD 两)
+                  (CLP (M 枚)))
+                (NP (NR 奥运会))
+                (NP (NN 金牌)))
+              (CC 和)
+              (NP
+                (QP (CD 十四)
+                  (CLP (M 次)))
+                (NP (NR 美洲))
+                (NP (NN 杯))))
+            (NP (NN 冠军)))))
+      (PU ，)
+      (IP
+        (VP
+          (ADVP (AD 共))
+          (VP (VE 有)
+            (NP
+              (QP (CD 331,811)
+                (CLP (M 名)))
+              (ADJP (JJ 注册))
+              (NP (NN 足球) (NN 运动员))))))
+      (PU ，)
+      (IP
+        (NP
+          (QP
+            (ADVP (AD 超过))
+            (QP (CD 一千)
+              (CLP (M 名))))
+          (NP (NR 阿根廷))
+          (NP (NN 球员)))
+        (VP (VV 效力)
+          (PP (P 于)
+            (NP (NN 国外)))))
+      (PU ，)
+      (IP
+        (NP (NN 其中))
+        (QP (CD 绝大多数))
+        (VP (VC 是)
+          (IP
+            (VP
+              (PP (P 在)
+                (NP
+                  (NP (NR 欧洲))
+                  (NP (NN 联赛))))
+              (VP (VV 踢球)))))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NR *) (NR 巴西) (NN 国家) (NN 足球队))
+      (VP
+        (PP (P 以)
+          (QP (CD 3:0)))
+        (VP
+          (VP (VV 战胜)
+            (NP (NR 阿根廷队)))
+          (VP (VV 获得)
+            (NP
+              (NP (NT 2007年))
+              (NP (NR 美洲) (NN 杯) (NN 足球赛))
+              (NP (NN 冠军))))))
+      (PU 。))
+    (VP (VV 新华网))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (IP
+      (ADVP (AD 平均))
+      (NP (NN 人口) (NN 密度))
+      (VP
+        (ADVP (AD 最))
+        (VP (VA 高)))
+      (SP 的))
+    (IP
+      (NP (NN 大洲))
+      (VP (VC 是)))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (DNP
+          (NP (NR 欧洲))
+          (DEG 的))
+        (NP (NN 人口)))
+      (VP
+        (ADVP (AD 约))
+        (VP (VE 有)
+          (NP
+            (QP (CD 7))
+            (QP (CD 28亿))
+            (NP (NN 人)))))
+      (PRN (PU （)
+        (NP
+          (NP (NT 2005年))
+          (NP (NN 数据)))
+        (PU ）)))
+    (PU ，)
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 约))
+              (VP (VV 占)
+                (NP
+                  (NP (NN 世界))
+                  (ADJP (JJ 总))
+                  (NP (NN 人口))))))
+          (DEC 的))
+        (QP (CD 11%))
+        (NP (NN )))
+      (PU ，)
+      (NP
+        (NP
+          (NP (PN 其))
+          (ADJP (JJ 平均))
+          (NP (NN 人口)))
+        (NP (NN 密度)))
+      (VP (VV 居)
+        (QP
+          (DNP
+            (NP
+              (DP (DT 各))
+              (NP (NN 大洲)))
+            (DEG 的))
+          (QP (OD 第一)
+            (CLP (M 位))))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (DNP
+          (NP (NR 欧洲))
+          (DEG 的))
+        (NP (NN 人口)))
+      (VP
+        (ADVP (AD 约))
+        (VP (VE 有)
+          (NP
+            (QP (CD 7))
+            (CP
+              (IP
+                (NP
+                  (QP (CD 28亿))
+                  (NP (NN 人)))
+                (VP
+                  (VP (VV ()
+                    (NP
+                      (NP (NT 2005年))
+                      (NP (NN 数据) (NN )))))
+                  (PU ，)
+                  (VP
+                    (ADVP (AD 约))
+                    (VP (VV 占)
+                      (NP
+                        (NP (NN 世界))
+                        (ADJP (JJ 总))
+                        (NP (NN 人口)))))))
+              (DEC 的))
+            (QP (CD 11%))
+            (NP (NN ))))))
+    (PU ，)
+    (IP
+      (NP
+        (NP
+          (NP (PN 其))
+          (ADJP (JJ 平均))
+          (NP (NN 人口)))
+        (NP (NN 密度)))
+      (VP (VV 居)
+        (QP
+          (DNP
+            (NP
+              (DP (DT 各))
+              (NP (NN 大洲)))
+            (DEG 的))
+          (QP (OD 第一)
+            (CLP (M 位))))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (QP (CD 28亿))
+        (NP (NN 人))
+        (PRN (PU （)
+          (NP
+            (NP (NT 2005年))
+            (NP (NN 数据)))
+          (PU ）)))
+      (PU ，)
+      (VP
+        (ADVP (AD 约))
+        (VP (VV 占)
+          (NP
+            (DNP
+              (NP
+                (NP (NN 世界))
+                (ADJP (JJ 总))
+                (NP (NN 人口)))
+              (DEG 的))
+            (QP (CD 11%))
+            (NP (NN ))))))
+    (PU ，)
+    (IP
+      (NP
+        (NP
+          (NP (PN 其))
+          (ADJP (JJ 平均))
+          (NP (NN 人口)))
+        (NP (NN 密度)))
+      (VP (VV 居)
+        (QP
+          (DNP
+            (NP
+              (DP (DT 各))
+              (NP (NN 大洲)))
+            (DEG 的))
+          (QP (OD 第一)
+            (CLP (M 位))))))
+    (PU ，)
+    (IP
+      (NP (NT 目前))
+      (NP
+        (NP (NR 欧洲))
+        (DP (DT 各))
+        (NP (NN 国)))
+      (VP
+        (VP
+          (ADVP (AD 多))
+          (VP (VV 面临)
+            (NP
+              (DNP
+                (NP (NN 生育率) (NN 下降)
+                  (CC 及)
+                  (NN 人口) (NN 老化))
+                (DEG 的))
+              (NP (NN 问题)))))
+        (PU ，)
+        (VP
+          (VP (MSP 而)
+            (VP (VV 推行)
+              (NP
+                (DP (DT 各)
+                  (CLP (M 种)))
+                (NP (NN 政策)))))
+          (VP (MSP 以)
+            (VP (VV 使)
+              (NP (NN 人口))
+              (IP
+                (VP
+                  (ADVP (AD 正常))
+                  (VP (VV 成长)))))))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (LCP
+              (NP
+                (NP (NR 中国))
+                (NP (NN 历史)))
+              (LC 上))
+            (ADVP (AD 最))
+            (VP (VA 杰出))))
+        (DEC 的))
+      (IP
+        (VP (VA 浪漫)))
+      (NP (NN 主义)))
+    (VP (VV 诗人)
+      (IP
+        (VP (VC 是))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ 特))
+      (NP (NN 兰斯) (NN 特勒默)))
+    (VP (VC 是)
+      (NP
+        (CP
+          (IP
+            (VP (VV 公认)))
+          (DEC 的))
+        (NP
+          (NP (NR 欧洲))
+          (ADJP (JJ 重要))
+          (CP
+            (IP
+              (VP
+                (VP (VV 象征)
+                  (IP
+                    (IP
+                      (NP (NR 主义)
+                        (CC 和)
+                        (NR 超现实))
+                      (VP (VV 主义)
+                        (NP (NN 诗人))))
+                    (PU ，)
+                    (IP (PU “)
+                      (IP
+                        (NP
+                          (NP (NR 诗人))
+                          (CP
+                            (IP
+                              (VP (BA 把)
+                                (IP
+                                  (NP (PN 自己))
+                                  (VP
+                                    (ADVP (AD 耳闻))
+                                    (VP (VV 目睹))))))
+                            (DEC 的))
+                          (NP (PN 一切))
+                          (PRN (PU ——)
+                            (NP
+                              (DNP
+                                (NP (NN 风) (PU 、) (NN 雨) (PU 、) (NN 日) (PU 、) (NN 月) (PU 、) (NN 天) (PU 、) (NN 地) (PU 、) (NN 人) (PU ，) (NN 通过) (NN 个人) (NN 文学)
+                                  (CC 与)
+                                  (NN 哲学))
+                                (DEG 的)))))
+                        (VP (VV 推动)
+                          (NP (NN 力及) (NN 社会) (NN 体验))))
+                      (PU ，)
+                      (IP
+                        (NP (NR 熔铸))
+                        (VP (VV 成)
+                          (NP
+                            (CP
+                              (IP
+                                (NP
+                                  (QP (CD 一))
+                                  (NP (NN 个个)))
+                                (VP (VA 独立)))
+                              (DEC 的))
+                            (NP (NN 整体))
+                            (PRN (PU ——)
+                              (NP (NN 诗歌))))))
+                      (PU ，) (PU ”))))
+                (VP (MSP 而)
+                  (VP (LB 被)
+                    (IP
+                      (IP
+                        (VP (VV 称为) (PU ：)
+                          (CP (PU “)
+                            (IP
+                              (NP
+                                (NP (NR 欧洲))
+                                (NP (NN 诗坛)))
+                              (VP
+                                (ADVP (AD 最))
+                                (VP (VA 杰出))))
+                            (SP 的))))
+                      (VP (VV 象征)
+                        (QP (CD 主义)
+                          (CC 和)
+                          (CD 超现实)))))))))
+          (NP (NN 主义)))
+        (ADJP (JJ 大))
+        (NP (NN 诗人))))))
+
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP
+            (NP (NR *))
+            (DNP
+              (NP (NR 德国))
+              (DEG 的))
+            (NP (NN ')))
+          (NP
+            (NP
+              (DP (DT 哪)
+                (CLP (M 所)))
+              (NP (NN 大学)))
+            (NP (NN ')))
+          (VP
+            (PP (P 以)
+              (IP
+                (VP (VA 浪漫))))
+            (VP (VV 主义)
+              (NP (NN 诗人) (NN 海涅)))))
+        (DEC 的))
+      (NP (NN 名字)))
+    (VP (VV 命名))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 湖畔))
+        (VP (VV 派)
+          (IP
+            (VP (VV 原指)
+              (NP
+                (QP (CD 19世纪))
+                (CP
+                  (IP
+                    (NP
+                      (DNP
+                        (NP (NR 英国))
+                        (DEG 的))
+                      (NP (NR 华兹华斯) (PU 、) (NR 柯勒律治)
+                        (CC 和)
+                        (NR 骚塞))
+                      (QP (CD 三)
+                        (CLP (M 位)))
+                      (CP
+                        (IP
+                          (VP (VA 浪漫))))
+                      (NP (NN 主义)))
+                    (VP
+                      (ADVP (AD 诗人))
+                      (VP (MSP 所)
+                        (VP (VV 形成)))))
+                  (DEC 的))
+                (NP (NN 诗歌) (NN 流派))))))))
+    (PU 。)
+    (IP
+      (NP
+        (DNP
+          (NP (NR 中国))
+          (DEG 的))
+        (NP (NN 湖畔)))
+      (VP (VV 派)
+        (NP
+          (DNP
+            (NP (NN 诗人))
+            (DEG 的))
+          (NP (NN 诗歌)))
+        (IP
+          (VP
+            (PP (P 与)
+              (NP
+                (DNP
+                  (NP (NR 英国))
+                  (DEG 的))
+                (IP
+                  (VP (VA 浪漫)))
+                (NP (NN 主义))))
+            (ADVP (AD 湖畔))
+            (VP (VV 派)
+              (NP
+                (DNP
+                  (NP (NN 诗人))
+                  (DEG 的))
+                (NP (NN 作品)))
+              (IP
+                (VP
+                  (PP (P 在)
+                    (LCP
+                      (NP (NN 风格))
+                      (LC 上)))
+                  (VP (VE 有)
+                    (NP (NN 相似之处))))))))))
+    (PU ，)
+    (IP
+      (NP
+        (CP
+          (IP
+            (NP (PN 其))
+            (VP (VV 最有)
+              (NP (NN 特色))))
+          (DEC 的)))
+      (VP (VC 是)
+        (NP
+          (CP
+            (IP
+              (VP (VV 歌颂)
+                (NP (NN 爱情))))
+            (DEC 的))
+          (NP (NN 诗歌)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV 甲午战争)
+      (IP
+        (NP
+          (CP
+            (IP
+              (VP (VV 爆发)))
+            (DEC 的))
+          (NP (NN 标志)))
+        (VP (VC 是))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP (NN ') (NN 甲午战争))
+    (VP (VV ') (PU ，)
+      (IP
+        (IP
+          (NP (NR 日本))
+          (VP
+            (VP (VV 称)
+              (NP
+                (NP
+                  (NP (NR '))
+                  (NP (NR 日清))
+                  (NP (NN 战争) (NN '))
+                  (PRN (PU （)
+                    (NP (PU ）))))
+                (PU ，)
+                (NP
+                  (NP (NN 国际) (NN 通称) (NN '))
+                  (QP (OD 第一)
+                    (CLP (M 次)))
+                  (NP (NR 中) (NR 日))
+                  (NP (NN 战争) (NN '))
+                  (PRN (PU （)
+                    (NP (NN FirstSino-JapaneseWar))
+                    (PU ）)))
+                (PU ，)
+                (NP
+                  (CP
+                    (IP
+                      (VP (VC 是)
+                        (IP
+                          (NP
+                            (NP (NR 清朝))
+                            (CC 和)
+                            (NP
+                              (ADJP (JJ 大))
+                              (NP (NR 日本) (NN 帝国))))
+                          (VP
+                            (PP (P 在)
+                              (NP
+                                (NP
+                                  (NP
+                                    (NP (NR 朝鲜))
+                                    (NP (NN 半岛)))
+                                  (PU 、)
+                                  (NP (NR 辽东))
+                                  (PU 、)
+                                  (NP
+                                    (NP (NR 山东))
+                                    (NP (NN 半岛)))
+                                  (CC 及)
+                                  (NP (NR 黄海))
+                                  (ETC 等))
+                                (NP (NN 地))))
+                            (VP (VV 进行))))))
+                    (DEC 的))
+                  (QP (CD 一)
+                    (CLP (M 场)))
+                  (NP (NN 战争)))
+                (PU ，)
+                (NP
+                  (NP (NT 1894年))
+                  (PRN (PU （)
+                    (NP (NT 光绪) (NT 二十年))
+                    (PU ）))))
+              (IP
+                (VP
+                  (PP (P 按照)
+                    (NP
+                      (NP (NR 中国))
+                      (NP (NN 干支) (NN 纪年))))
+                  (PU ，)
+                  (ADVP (AD 时年))
+                  (VP (VC 为)
+                    (NP (NN 甲午年))))))
+            (PU ，)
+            (VP (VV 故称)
+              (NP (NN 甲午战争)))))
+        (PU ，)
+        (IP
+          (NP
+            (CP
+              (IP
+                (VP (VA 丰))))
+            (NP (NN 岛) (NN 海战)))
+          (VP (VC 是)
+            (NP
+              (CP
+                (IP
+                  (NP (NN 战争))
+                  (VP (VV 爆发)))
+                (DEC 的))
+              (NP (NN 标志)))))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NT 1894年))
+      (PU ，)
+      (VP (VV 爆发)
+        (NP (NN 甲午战争))))
+    (PU 。)
+    (IP
+      (NP (NN 北洋))
+      (VP (VV 水师)
+        (NP
+          (NP
+            (CP
+              (IP
+                (VP (LB 被)
+                  (IP
+                    (NP (NR 日本) (NN 海军) (NN 重创))
+                    (PU ，)
+                    (VP
+                      (VSB (VV 没有) (VV 沉没))))))
+              (DEC 的))
+            (NP (NN 军舰)))
+          (DP (DT 全体))
+          (NP (NN 投降)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP
+        (NP (NT 1894年))
+        (PRN (PU （)
+          (NP (NT 光绪) (NT 二十年))
+          (PU ）)))
+      (VP
+        (PP (P 按照)
+          (NP
+            (NP (NR 中国))
+            (NP (NN 干支))))
+        (VP (VV 纪年) (PU ，)
+          (IP
+            (NP (NN 时年))
+            (VP
+              (VP (VC 为)
+                (NP (NN 甲午年)))
+              (PU ，)
+              (VP (VV 故称)
+                (NP (NN 甲午战争)))
+              (PU ，)
+              (VP (VA 丰)))))))
+    (IP
+      (IP
+        (NP (NN 岛) (NN 海战))
+        (VP (VC 是)
+          (NP
+            (CP
+              (IP
+                (NP (NN 战争))
+                (VP (VV 爆发)))
+              (DEC 的))
+            (NP (NN 标志)))))
+      (PU ，)
+      (IP
+        (ADVP (AD 最终))
+        (NP
+          (NP (NR 清朝))
+          (NP (NN 政府)))
+        (NP (NN 战败))
+        (PU ，)
+        (VP
+          (PP (P 与)
+            (NP (NR 日本)))
+          (VP (VV 签订)
+            (NP (PU 《)
+              (ADJP (JJ 马关))
+              (NP (NN 条约))
+              (PU 》))))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (CP
+    (IP
+      (IP (PU 《)
+        (VP (VV 华英)
+          (NP (NN 字典)))
+        (PU 》))
+      (SP 的)
+      (PRN
+        (IP
+          (NP (NN 作者))
+          (VP (VC 是)))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (NP
+          (NP (PU 《)
+            (NP (NR ') (NN 华英) (NN 字典))
+            (NP (NN '))
+            (PU 》))
+          (PRN (PU （)
+            (VP (VV 或称)
+              (NP (PU 《)
+                (NP (NR ') (NR 中) (NR 英) (NN 字典) (NN ') (PU 》))
+                (PU 、)
+                (NP (PU 《)
+                  (NP (NR ') (NR 中国) (NN 语言) (NN 字典))
+                  (NP (NN '))
+                  (PU 》))
+                (PU 、)
+                (NP (PU 《) (NN ') (NN 华英) (NN 辞典))
+                (NP (NN '))
+                (PU 》)))
+            (PU ）)))
+        (PU ，)
+        (NP
+          (CP
+            (IP
+              (VP (VC 是)
+                (NP
+                  (NP (NN 世界))
+                  (QP (OD 第一)
+                    (CLP (M 部)))
+                  (ADJP (JJ 英汉))
+                  (NP (NN -) (NN 汉英)))))
+            (DEC 的))
+          (NP (NN 对照) (NN 字典)))
+        (CC 和)
+        (NP
+          (NP (NR 中国))
+          (NP (NN 境内))))
+      (VP
+        (ADVP (AD 最早))
+        (VP (VV 使用)
+          (NP
+            (DNP
+              (NP (NN 西方) (NN 活字) (NN 印刷术) (NN 排印))
+              (DEG 的))
+            (QP (OD 第一)
+              (CLP (M 部)))
+            (NP (NN 中文) (NN 书籍))))))
+    (PU ，)
+    (IP
+      (NP
+        (DP (DT 该))
+        (NP (NN 字典)))
+      (VP
+        (PP (P 由)
+          (NP (NN 基督) (NN 新教)))
+        (VP (VV 来)
+          (NP
+            (NP (NR 华))
+            (ADJP (JJ 传教士))
+            (NP (NN 马礼逊) (NN 独力) (NN 编着))))))
+    (PU ，)
+    (IP
+      (NP
+        (DNP
+          (NP
+            (PP (P 由)
+              (NP (NN 隶属)))
+            (NP (NR 英国))
+            (NP (NN 东印度) (NN 公司)))
+          (DEG 的))
+        (NP (NR 澳门))
+        (NP (NN 印刷厂)))
+      (VP
+        (VP (MSP 所)
+          (VP (VV 印製)))
+        (PU ，)
+        (VP
+          (ADVP (AD 共))
+          (VP (VC 为)
+            (QP (CD 6)
+              (CLP (M 册)))))
+        (PU ，)
+        (VP
+          (PP (P 于)
+            (NP (NT 1815年)
+              (CC 至)
+              (NT 1823年)))
+          (PP (P 在)
+            (NP (NR 澳门)))
+          (ADVP (AD 陆续))
+          (VP (VV 出版)))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NT 1823年))
+      (VP
+        (ADVP (AD 马礼逊))
+        (VP (VV 出版) (AS 了)
+          (NP
+            (QP (CD 一)
+              (CLP (M 部)))
+            (CP
+              (IP
+                (VP (VA 重要)))
+              (DEC 的))
+            (NP (NN 汉英) (NN 对照) (NN 字典))))))
+    (PU ：)
+    (IP
+      (NP
+        (NP (PU 《)
+          (ADJP (JJ 华英))
+          (NP (NN 字典))
+          (PU 》))
+        (NP (NN )))
+      (PU ，)
+      (NP (NT 当时))
+      (NP
+        (DNP
+          (QP (CD 大部分))
+          (DEG 的))
+        (NP (NN 欧洲人)))
+      (VP
+        (ADVP (AD 都))
+        (VP (VV 懂)
+          (NP (NN 英文)))))
+    (PU ，)
+    (IP
+      (ADVP (AD 因此))
+      (NP
+        (CP
+          (IP
+            (VP (VV 懂)
+              (NP (NN 英文))))
+          (DEC 的))
+        (NP (NN 传教士)))
+      (VP
+        (ADVP (AD 就))
+        (VP
+          (VP (VV 可以)
+            (VP
+              (PP (P 根据)
+                (LCP
+                  (NP
+                    (DP (DT 这)
+                      (CLP (M 部)))
+                    (NP (NN 字典)))
+                  (LC 来)))
+              (VP (VV 学习)
+                (NP (NN 中文)))))
+          (CC 或)
+          (VP (VV 从事)
+            (NP (NN 翻译) (NN 工作))))))
+    (PU ，)
+    (IP
+      (ADVP (AD 所以))
+      (NP
+        (DNP
+          (NP
+            (NP (PU 《) (NN 华英) (NN 字典) (PU 》))
+            (CC 和)
+            (NP (NN 基要) (NN 真理)))
+          (DEG 的))
+        (NP (NN 小册)))
+      (PU ，)
+      (VP (VC 是)
+        (NP
+          (DNP
+            (NP (NN 马礼逊))
+            (DEG 的))
+          (ADJP (JJ 重要))
+          (NP (NN 贡献)))))))
+
+(ROOT
+  (IP
+    (IP
+      (PP (P 在)
+        (NP
+          (DNP
+            (NP
+              (NP (PU 《)
+                (ADJP (JJ 华英))
+                (NP (NN 字典))
+                (PU 》))
+              (NP (NN 出版)))
+            (DEG 的))
+          (NP (NN 年代))))
+      (PU ，)
+      (NP
+        (DP (DT 该))
+        (NP (NN 字典)))
+      (VP
+        (PP (P 为)
+          (IP
+            (NP
+              (ADJP (JJ 外来))
+              (NP (NN 传教士)))
+            (VP (VV 学习)
+              (NP
+                (DNP
+                  (NP (NR 中国))
+                  (DEG 的))
+                (NP (NN 语言) (NN 文化) (PU 、) (NN 社会) (NN 政治)
+                  (CC 和)
+                  (NN 风俗) (NN 习惯) (ETC 等))))))
+        (VP (VV 提供) (AS 了)
+          (NP
+            (CP
+              (IP
+                (VP (VA 实用)))
+              (DEC 的))
+            (NP (NN 资料))))))
+    (PU ，)
+    (IP
+      (VP
+        (VP (VV 方便) (AS 了)
+          (NP (NN 后人) (NN 学习) (NN 中文)))
+        (CC 或)
+        (VP (VV 从事)
+          (NP (NN 翻译) (NN 工作)))))
+    (PU 。)
+    (IP
+      (ADVP (AD 所以))
+      (NP (PU 《)
+        (ADJP (JJ 华英))
+        (NP (NN 字典))
+        (PU 》))
+      (VP
+        (ADVP (AD 亦))
+        (PP (P 对)
+          (NP
+            (DNP
+              (NP (NR 中西方))
+              (DEG 的))
+            (NP (NN 文化) (NN 交流))))
+        (VP (VV 沟通)
+          (VP
+            (VP (VV 发挥) (AS 了)
+              (NP
+                (ADJP (JJ 积极))
+                (NP (NN 作用))))
+            (PU ，)
+            (VP (VV 使)
+              (NP
+                (NP (NR 中国))
+                (NP (NN 文字)
+                  (CC 和)
+                  (NN 文化)))
+              (IP
+                (VP
+                  (VP (VV 得以)
+                    (VP
+                      (ADVP (AD 更))
+                      (VP (VV 进)
+                        (QP (CD 一)
+                          (CLP (M 步))))))
+                  (VP (LB 被)
+                    (CP
+                      (IP
+                        (NP (NN 欧洲人))
+                        (VP (MSP 所)
+                          (VP (VV 认识)))))))))
+            (PU ，)
+            (VP (VC 是)
+              (NP
+                (CP
+                  (IP
+                    (VP
+                      (NP (NT 现今))
+                      (LCP
+                        (NP (NN 文化) (NN 研究))
+                        (LC 上))
+                      (VP (VA 宝贵))))
+                  (DEC 的))
+                (NP (NN 史料))))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (PU 《) (NN 资治通鉴) (PU 》))
+        (DEG 的)))
+    (VP (VV 撰写)
+      (NP
+        (QP
+          (ADVP (AD 一共))
+          (QP (CD 耗时)))
+        (NP (NN 多少年))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP (NN *) (NN 司马光))
+    (VP
+      (VP
+        (VP (VV 完成) (AS 了)
+          (NP
+            (CP
+              (IP
+                (VP (VV 史书)
+                  (NP (PU 《) (NN 资治通鉴) (PU 》))))
+              (DEC 的))))
+        (VP (VV 撰写)))
+      (PU ，)
+      (VP (VV 耗时)
+        (QP (CD 19)
+          (CLP (M 年)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP
+        (NP
+          (NP (PU ”) (NT 资治通鉴))
+          (CP
+            (IP
+              (VP
+                (VP (VV 卷)
+                  (QP (OD 第十七)))
+                (PU ，)
+                (VP
+                  (ADVP (AD 汉武帝))
+                  (VP (VV 采用) (AS 了)
+                    (NP (NN 董仲舒))))))
+            (DEC 的))
+          (NP (NN 建议)))
+        (NP (PU 《) (NN 资治通鉴) (PU 》)))
+      (VP
+        (VP (VV 卷)
+          (NP
+            (QP (CD 十七)
+              (CLP (M 天)))
+            (NP (NN 子))))
+        (VP (VA 善))))
+    (IP
+      (NP (PN 其))
+      (VP
+        (PP (P 对))
+        (PU ，)
+        (PP (P 以)
+          (NP (NN 仲舒)))
+        (VP
+          (PP (P 为)
+            (IP
+              (IP
+                (VP
+                  (VP (VV 江都))
+                  (ADVP (AD 相)))
+                (PU ，))
+              (PU ，)
+              (IP
+                (NP (NN 「))
+                (VP (VV 罢黜)
+                  (QP (CD 百)
+                    (CLP (M 家)))))))
+          (PU ，)
+          (ADVP (AD 独尊))
+          (VP (VV 儒术)
+            (NP (NN 」))))))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (NR ’))
+      (VP
+        (NP (PN 其))
+        (VP
+          (VP (VV 明断)
+            (NP (PN 如此)))
+          (PU ，)
+          (VP
+            (ADVP (AD 然))
+            (PP (P 以)
+              (NP (NR 果于)))
+            (VP (VV 刑戮)))
+          (PU ，)
+          (VP (VV 奸党)
+            (NP (NN 惧诛)))
+          (PU ，)
+          (VP (VV 遂)
+            (NP (NN 构) (NN 大变云))))))
+    (PU ，) (PU ”)
+    (IP
+      (NP (PU 《)
+        (ADJP (JJ 续))
+        (NP (NN 资治通鉴))
+        (PU 》))
+      (VP (VV 卷)
+        (NP
+          (NP
+            (QP (CD 二百零一))
+            (QP (PU 《)
+              (ADJP (JJ 元纪))
+              (QP (CD 十九))
+              (PU 》))
+            (NP (PU 《) (NR 续) (NN 资治通鉴) (PU 》)))
+          (PU ，)
+          (NP (NN 作者))
+          (PU ：)
+          (NP
+            (NP (PU （) (NR 清) (PU ）))
+            (NP (NN 毕沅))))))
+    (PU ，)
+    (IP
+      (NP (NR 中华))
+      (VP (VV 书局)
+        (NP
+          (NP (NT 1957年) (NT 8月))
+          (QP (OD 第1))
+          (NP (NN 版)))))
+    (PU ，)
+    (IP
+      (NP (NT 1979年) (NT 6月))
+      (NP (NR 上海))
+      (VP (VV 第)
+        (NP
+          (QP (CD 4)
+            (CLP (M 次)))
+          (NP (NN 印刷)))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP (NN 世界上) (NN 首位))
+    (VP
+      (PP (P 从)
+        (NP (NN 南)))
+      (VP
+        (VP (VV 坡)
+          (NP
+            (CP
+              (IP
+                (VP (VV 登上)
+                  (NP
+                    (DNP
+                      (NP (NN 珠穆朗玛峰))
+                      (DEG 的))
+                    (NP (NN 女性)))))
+              (DEC 的))
+            (NP (NN 国籍))))
+        (VP (VC 是))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (NP (NT *) (NT 1975年) (NT 5月) (NT 16日))
+    (PU ，)
+    (NP (NN 日本人) (NN 田) (NN 部))
+    (VP
+      (ADVP (AD 井淳子))
+      (VP (VV 成为)
+        (NP
+          (CP
+            (IP
+              (LCP
+                (NP (NN 世界))
+                (LC 上))
+              (NP (NN 首位))
+              (VP
+                (PP (P 从)
+                  (NP (NN 南) (NN 坡)))
+                (VP (VV 登上)
+                  (NP (NN 珠穆朗玛峰)))))
+            (DEC 的))
+          (NP (NN 女性)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (NP (NN 绒布寺))
+    (VP (VC 是)
+      (IP
+        (PP (P 自)
+          (LCP
+            (IP
+              (VP
+                (VP (VV 北坡)
+                  (NP
+                    (DNP
+                      (NP (NN 攀登) (NN 珠穆朗玛峰))
+                      (DEG 的))
+                    (ADJP (JJ 大))
+                    (NP (NN 本营))))
+                (PU ，)
+                (VP
+                  (PP (P 从)
+                    (NP (NN 此处)))
+                  (VP (VV 可)
+                    (VP
+                      (PP (P 向)
+                        (NP (NN 南)))
+                      (VP (VV 眺望)
+                        (NP (NN 珠穆朗玛峰))))))
+                (PU ，)
+                (VP
+                  (NP (NN 天气) (NN 睛朗)))))
+            (LC 时)))
+        (PU ，)
+        (VP
+          (VP
+            (VP (VV 可)
+              (VP (VV 见到)
+                (NP (NN 珠穆朗玛峰) (NN 山顶))))
+            (VP (VE 有)
+              (NP
+                (QP (CD 一))
+                (NP (NN 团) (NN 乳白色) (NN 烟云)))))
+          (PU ，)
+          (VP
+            (PP (P 像)
+              (NP
+                (QP (CD 一)
+                  (CLP (M 面)))
+                (ADJP (JJ 白色))
+                (NP (NN 旗帜))))
+            (VP (VV 飘扬)
+              (PP (P 在)
+                (NP (NN 珠穆朗玛峰) (NN 上空)))))
+          (PU ，)
+          (VP (SB 被)
+            (VP (VV 誉为)
+              (NP (PU “)
+                (LCP
+                  (NP (NN 世界))
+                  (LC 上))
+                (NP
+                  (DNP
+                    (ADJP (JJ 最高))
+                    (DEG 的))
+                  (NP (NN 旗云)))
+                (PU ”)))))))))
+
+(ROOT
+  (IP
+    (NP (NN ') (NN 曾志成))
+    (VP (VV ') (PU ，)
+      (IP
+        (IP
+          (NP (NR 香港) (NN 攀山) (NN 爱好者))
+          (PU ，)
+          (VP
+            (VP (VV 为首)
+              (NP
+                (CLP (M 位))
+                (NP (NN 香港人))))
+            (VP (VV 完成)
+              (NP
+                (CP
+                  (IP
+                    (VP
+                      (PP (P 由)
+                        (NP
+                          (NP (NN 南) (PU 、) (NN 北))
+                          (QP (CD 两))
+                          (NP (NN 坡))))
+                      (VP (VV 登陆)
+                        (NP (NN 珠穆朗玛峰)))))
+                  (DEC 的))
+                (NP (NN 挑战))))))
+        (PU ，)
+        (IP
+          (NP (PN 他))
+          (VP
+            (QP (CD 两)
+              (CLP (M 度)))
+            (VP (VV 登上) (AS 过)
+              (NP (NN 珠穆朗玛峰)))))
+        (PU ，)
+        (IP
+          (VP
+            (ADVP (AD 亦))
+            (VP (VV 登上) (AS 过)
+              (NP
+                (QP (CD 七大洲))
+                (NP (NN 最高峰))))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD 最后))
+      (VP (VV 宣布)
+        (NP
+          (CP
+            (IP
+              (VP (VV 废除)
+                (NP (NN 奴隶) (NN 制度))))
+            (DEC 的))
+          (NP (NN 行政) (NN 地区)))
+        (IP
+          (VP (VC 是)))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (NR 林肯))
+      (VP
+        (VP (VC 是)
+          (NP
+            (CP
+              (IP
+                (VP (VV 反对)
+                  (NP
+                    (DNP
+                      (NP (NN 奴隶) (NN 制度))
+                      (DEG 的))
+                    (NP (NN 温和派)))
+                  (PU ，)
+                  (IP
+                    (IP
+                      (NP (PN 他))
+                      (VP (VV 承诺)
+                        (NP (NN 尽其所能))
+                        (IP
+                          (VP (VV 反对)
+                            (NP
+                              (NP (NN 奴隶) (NN 制度))
+                              (DNP
+                                (PP (P 在)
+                                  (NP
+                                    (ADJP (JJ 新))
+                                    (NP (NN 领土))))
+                                (DEG 的))
+                              (NP (NN 扩张))))))
+                      (PRN (PU （)
+                        (IP
+                          (VP (VV 及)
+                            (VP (VV 阻止)
+                              (NP
+                                (DP (DT 任何))
+                                (ADJP (JJ 新))
+                                (NP (NN 奴隶) (NN 州)))
+                              (IP
+                                (VP (VV 加入)
+                                  (NP (NN 联邦)))))))
+                        (PU ）)))
+                    (PU ；)
+                    (IP
+                      (ADVP (AD 但))
+                      (VP
+                        (ADVP (AD 也))
+                        (VP (VV 说)
+                          (NP (NN 联邦) (NN 政府) (NN 无力))
+                          (IP
+                            (VP (VV 废除)
+                              (NP
+                                (CP
+                                  (IP
+                                    (VP
+                                      (ADVP (AD 已))
+                                      (VP (VV 实行)
+                                        (NP
+                                          (NP (NN 州))
+                                          (QP
+                                            (CLP (M 份)))))))
+                                  (DEC 的))
+                                (NP (NN 奴隶) (NN 制度))))))))
+                    (PU ，)
+                    (IP
+                      (ADVP (AD 所以))
+                      (NP (PN 他))
+                      (VP (VV 会)
+                        (NP (NN 执行) (NN 逃奴法))))
+                    (PU ，)
+                    (IP
+                      (NP
+                        (NP (NR 南方) (NR 州))
+                        (QP
+                          (CLP (M 份)))
+                        (ADJP (JJ 预期))
+                        (NP (NN 会)))
+                      (VP
+                        (PP (P 对)
+                          (NP (PN 它们)))
+                        (VP (VA 独特)))))))
+              (DEC 的))
+            (NP (NN 制度) (NN 敌意))))
+        (VP (VV 增加))))
+    (PU ；)
+    (CC 而)
+    (IP
+      (NP (NN 不信任))
+      (NP (NR 林肯))
+      (PU ，)
+      (VP
+        (ADVP (AD 并))
+        (PP (P 对)
+          (LCP
+            (IP
+              (NP
+                (DP (DT 其他))
+                (NP
+                  (ADJP (JJ 众多))
+                  (ADJP (JJ 共和))
+                  (NP (NN 党员))))
+              (VP (VV 有意)
+                (IP
+                  (VP
+                    (ADVP (AD 全面))
+                    (VP (VV 废除)
+                      (NP (NN 奴隶) (NN 制度)))))))
+            (LC 起)))
+        (VP (VV 戒心))))))
+
+(ROOT
+  (IP
+    (IP
+      (IP
+        (NP (NN 解放) (NN 奴隶) (NN 宣言))
+        (NP (PN 自身))
+        (VP (SB 受)
+          (VP (VV 限于)
+            (IP
+              (VP
+                (PP (P 对)
+                  (LCP
+                    (NP
+                      (CP
+                        (IP
+                          (VP (VV 奴隶)
+                            (NP (NN 制度))))
+                        (DEC 的))
+                      (IP
+                        (VP
+                          (VP
+                            (ADVP (AD 立即))
+                            (VP (VV 效用)))
+                          (PU ，)
+                          (VP
+                            (ADVP (AD 仅))
+                            (VP (VV 能)
+                              (NP
+                                (DNP
+                                  (PP (P 在)
+                                    (LCP
+                                      (IP
+                                        (NP (NN 联邦))
+                                        (VP (VV 纳入)
+                                          (NP (NN 控制))))
+                                      (LC 下)))
+                                  (DEG 的))
+                                (NP (NN 邦联)))))))
+                      (NP (NN 领土)))
+                    (LC 上)))
+                (VP (VV 生效)))))))
+      (PU ，)
+      (IP
+        (NP
+          (DNP
+            (NP
+              (NP (NN 边界))
+              (NP (NN 州))
+              (PRN (PU （)
+                (IP
+                  (VP
+                    (QP (CD 德拉瓦州) (PU 、) (CD 肯塔基州) (PU 、) (CD 马里兰州) (PU 、) (CD 密苏里州)
+                      (CC 和)
+                      (CD 西维吉尼亚州))))
+                (PU ）)))
+            (DEG 的))
+          (NP (NN 奴隶) (NN 制度)))
+        (VP
+          (PP (P 因)
+            (IP
+              (NP (PN 其))
+              (VP
+                (ADVP (AD 仍))
+                (VP (VV 效忠)
+                  (NP (NN 联邦))))))
+          (VP (MSP 而)
+            (VP
+              (ADVP (AD 丝毫))
+              (ADVP (AD 不))
+              (VP (VV 受)
+                (NP (NN 影响)))))))
+      (PU ，)
+      (IP
+        (NP
+          (NP (NR 国务卿))
+          (NP (NN 威廉) (PU ·) (NN 西华德))
+          (PRN (PU （)
+            (NP (NN WilliamSeward))
+            (PU ）))
+          (ADJP (JJ 曾于))
+          (NP (NN 评论)))
+        (NP (NR 中))
+        (VP (VV 谈到) (PU ：) (PU “)
+          (IP
+            (NP (PN 我们))
+            (VP
+              (VP (VV 表达)
+                (NP
+                  (CP
+                    (IP
+                      (VP
+                        (PP (P 对)
+                          (NP
+                            (DNP
+                              (NP (NN 奴隶) (NN 制度))
+                              (DEG 的))
+                            (NP (NN 同情) (NN 手法))))
+                        (VP (VC 是)
+                          (VP (VV 解放)
+                            (NP
+                              (DP (DT 那些))
+                              (NP (PN 我们))
+                              (NP (NN 管不着)))))))
+                    (DEC 的))
+                  (NP (NN 奴隶))))
+              (CC 以及)
+              (VP (VV 奴役)
+                (NP
+                  (DP (DT 那些))
+                  (CP
+                    (IP
+                      (NP (PN 我们))
+                      (VP (VV 能)
+                        (NP (NN 解放))))
+                    (DEC 的))
+                  (NP (NN 人们))))))))
+      (PU ，) (PU ”))
+    (NP
+      (DP (DT 任何))
+      (CP
+        (IP
+          (VP (VV 脱离)
+            (NP (NN 联邦))))
+        (DEC 的))
+      (NP (NN 州)))
+    (VP
+      (ADVP (CS 只要))
+      (PP (P 在)
+        (LCP
+          (IP
+            (NP (NN 宣言))
+            (VP (VV 生效)))
+          (LC 前)))
+      (ADVP (AD 重新))
+      (VP (VV 加入)
+        (NP (NN 联邦))))
+    (PRN (PU （)
+      (IP
+        (NP
+          (CP
+            (IP
+              (VP (CC 或)
+                (VP
+                  (ADVP (AD 仅仅))
+                  (VP
+                    (VP (VV 送)
+                      (NP
+                        (DNP
+                          (NP (PN 他们))
+                          (DEG 的))
+                        (NP (NN 国会) (NN 议员))))
+                    (VP (VV 回)
+                      (NP
+                        (NP (NR 华盛顿)
+                          (PRN
+                            (NP (PU ）))))
+                        (CP
+                          (IP
+                            (VP
+                              (ADVP (AD 便))
+                              (VP (VV 具有)
+                                (NP (NN 等同) (NN 边际) (NN 州)))))
+                          (DEC 的))
+                        (NP (NN 地位))))))
+                (PU ，)
+                (CC 并)
+                (VP
+                  (ADVP (AD 至少))
+                  (PP (P 在)
+                    (NP (NR 当下)))
+                  (VP (VV 能)
+                    (NP (NN 保有) (NN 奴隶)))))))
+          (NP (NN 制度))
+          (PRN (PU （)
+            (NP
+              (NP
+                (IP
+                  (VP
+                    (CP
+                      (ADVP (CS 虽然))
+                      (IP
+                        (NP (NR 马里兰州) (PU 、) (NR 密苏里州)
+                          (CC 和)
+                          (NR 西维吉尼亚州))
+                        (VP
+                          (ADVP (AD 早))
+                          (PP (P 在)
+                            (NP
+                              (NP (NT 1865年) (NR 美国) (NN 宪法))
+                              (QP (OD 第13)
+                                (CLP (M 号)))
+                              (NP (NN 修正案))))
+                          (VP (VV 批准)
+                            (LCP
+                              (IP
+                                (VP (VV 解除)
+                                  (NP
+                                    (DNP
+                                      (NP
+                                        (NP
+                                          (DP (DT 全))
+                                          (NP (NN 国)))
+                                        (NP (NN 奴隶) (NN 制度)))
+                                      (DEG 的))
+                                    (NP (NN 合法性)))))
+                              (LC 以前))))))
+                    (PU ，)
+                    (ADVP (AD 便))
+                    (VP (VV 透过)
+                      (NP (NN 内部)))))
+                (NP (NN 政治)))
+              (NP (NN 运作)))))
+        (VP
+          (ADVP (AD 逐步))
+          (VP (VV 废除)
+            (NP (NN 奴隶) (NN 制度)))))
+      (PU ）))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP
+        (CP
+          (IP
+            (NP (PN 他))
+            (VP (VV 承诺)
+              (NP (NN 尽其所能))
+              (IP
+                (VP (VV 反对)
+                  (IP
+                    (IP
+                      (NP (NN 奴隶) (NN 制度))
+                      (VP (VV 在)
+                        (NP
+                          (DNP
+                            (NP
+                              (ADJP (JJ 新))
+                              (NP (NN 领土)))
+                            (DEG 的))
+                          (NP (NN 扩张))
+                          (PRN (PU （)
+                            (VP (CC 及)
+                              (VP (VV 阻止)
+                                (NP
+                                  (DP (DT 任何))
+                                  (ADJP (JJ 新))
+                                  (NP (NN 奴隶))))
+                              (CC 州)
+                              (VP (VV 加入)
+                                (NP (NN 联邦))))
+                            (PU ）)))))
+                    (PU ；)
+                    (IP
+                      (ADVP (AD 但))
+                      (VP
+                        (ADVP (AD 也))
+                        (VP (VV 说)
+                          (NP (NN 联邦) (NN 政府) (NN 无力))
+                          (IP
+                            (VP (VV 废除)
+                              (NP
+                                (CP
+                                  (IP
+                                    (VP
+                                      (ADVP (AD 已))
+                                      (VP (VV 实行)
+                                        (QP (CD 州)
+                                          (CLP (M 份))))))
+                                  (DEC 的))
+                                (NP (NN 奴隶) (NN 制度))))))))
+                    (PU ，)
+                    (IP
+                      (ADVP (AD 所以))
+                      (NP (PN 他))
+                      (VP (VV 会)
+                        (NP (NN 执行) (NN 逃奴法))))
+                    (PU ，)
+                    (IP
+                      (NP
+                        (NP (NR 南方))
+                        (QP (CD 州)
+                          (CLP (M 份)))
+                        (ADJP (JJ 预期))
+                        (NP (NN 会)))
+                      (VP
+                        (PP (P 对)
+                          (NP (PN 它们)))
+                        (VP (VA 独特)))))))))
+          (DEC 的))
+        (NP (NN 制度)))
+      (VP
+        (ADVP (AD 敌意))
+        (VP (VV 增加))))
+    (PU ；)
+    (IP
+      (VP
+        (VP (MSP 而)
+          (VP (VV 不信任)
+            (NP (NR 林肯))))
+        (PU ，)
+        (CC 并)
+        (VP
+          (PP (P 对)
+            (LCP
+              (IP
+                (NP
+                  (DP (DT 其他))
+                  (NP
+                    (ADJP (JJ 众多))
+                    (ADJP (JJ 共和))
+                    (NP (NN 党员))))
+                (VP (VV 有意)
+                  (IP
+                    (VP
+                      (ADVP (AD 全面))
+                      (VP (VV 废除)
+                        (NP (NN 奴隶) (NN 制度)))))))
+              (LC 起)))
+          (VP (VV 戒心) (PU ，)
+            (IP
+              (NP (NR 林肯))
+              (VP
+                (ADVP (AD 甚至))
+                (PP (P 在)
+                  (NP (NT 1858年)))
+                (PP (P 以)
+                  (NP (PU 《) (NN 》) (NN 鼓励) (NN 废奴主义者)))
+                (PP (P 通过)
+                  (LCP
+                    (NP
+                      (DNP
+                        (PP (P 对)
+                          (NP (NR 奴隶主)))
+                        (DEG 的))
+                      (NP (NN 经济) (NN 补偿)
+                        (CC 并)
+                        (NN 组织)))
+                    (LC 前)))
+                (VP (VV 奴隶)
+                  (NP (NN 迁离) (NN 蓄奴州)))))))
+        (PU ，)
+        (VP
+          (ADVP (AD 逐渐))
+          (ADVP (AD 和平))
+          (VP (VV 终止)
+            (NP (NN 蓄) (NN 奴) (NN 制度))))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN 国际) (NN 海洋法) (NN 法庭))
+        (DEG 的))
+      (NP (NN 总部)))
+    (VP (VV 位于)
+      (NP
+        (ADJP (JJ 哪个))
+        (NP (NN 国家))))
+    (PU ？)))
+
+(ROOT
+  (NP
+    (NP (NN *) (NN 国际) (NN 海洋法))
+    (NP (NN 法庭))
+    (PRN (PU （)
+      (NP (NN 官网))
+      (PU ）))))
+
+(ROOT
+  (IP
+    (NP
+      (NP (NR *))
+      (ADJP (JJ 灰))
+      (NP (NN 松鼠)))
+    (VP (VV .)
+      (NP (NN 国际) (NN 海洋法) (NN 法庭)))))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP
+              (VP (VV ')
+                (NP (NN 国际) (NN 海洋法) (NN 法庭) (NN ')
+                  (PRN (PU （)
+                    (NP (NN InternationalTribunalfortheLawoftheSea))
+                    (PU ，)
+                    (NP (NN 简称) (NN ITLOS))
+                    (PU ）))))
+              (PU ，)
+              (VP (VC 是)
+                (NP
+                  (CP
+                    (IP
+                      (VP
+                        (PP (P 根据)
+                          (NP (PU 《) (NR 联合国) (NN 海洋法) (NN 公约) (PU 》)))
+                        (VP (VV 建立))))
+                    (DEC 的))))))
+          (DEC 的))
+        (QP (CD 一)
+          (CLP (M 个)))
+        (NP (NN 法律) (NN 组织)))
+      (PU ，)
+      (VP (VV 始建于)
+        (NP (NT 1996年))))
+    (PU ，)
+    (IP
+      (NP (NN 总部))
+      (VP
+        (VP (VV 位于)
+          (NP
+            (NP (NR 德国))
+            (NP (NN 汉堡市))))
+        (PU ，)
+        (VP (VC 是)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 专门))
+                  (VP (VV 审理)
+                    (NP (NN 海洋法) (NN 案件)))))
+              (DEC 的))
+            (NP (NN 国际) (NN 组织))))
+        (PU ，)
+        (VP (VV 现为)
+          (NP
+            (NP (NR 联合国))
+            (NP (NN 观察员) (NN 组织))))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (PU 《)
+          (LCP
+            (IP
+              (NP (NN 苏德))
+              (VP
+                (ADVP (AD 互))
+                (ADVP (AD 不))
+                (VP (VV 侵犯)))))
+          (NP (NN 条约))
+          (PU 》))
+        (DEG 的)))
+    (VP
+      (VP (VV 签订)
+        (NP (NN 地点)))
+      (VP (VC 是)))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (NP
+          (NP (NR '))
+          (NP (PU 《)
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 苏德))
+                  (ADVP (AD 互))
+                  (ADVP (AD 不))
+                  (VP (VV 侵犯)))))
+            (NP (NN 条约))
+            (PU 》)))
+        (NP (NN ')))
+      (VP (VC 是)
+        (NP
+          (CP
+            (IP
+              (LCP
+                (IP
+                  (NP (NT 1939年))
+                  (NP
+                    (QP (OD 第二)
+                      (CLP (M 次)))
+                    (NP (NN 世界) (NN 大战)))
+                  (VP (VV 爆发)))
+                (LC 前))
+              (NP (NR 苏联)
+                (CC 与)
+                (NR 纳粹) (NR 德国))
+              (VP
+                (PP (P 在)
+                  (NP (NR 莫斯科)))
+                (VP (MSP 所)
+                  (VP
+                    (ADVP (AD 秘密))
+                    (VP (VV 签订))))))
+            (DEC 之))
+          (IP
+            (VP
+              (ADVP (AD 互))
+              (ADVP (AD 不))
+              (VP (VV 侵犯))))
+          (NP (NN 条约)))))
+    (PU 。)
+    (IP
+      (NP (NN 条约))
+      (VP
+        (ADVP (AD 也))
+        (VP (VV 称为)
+          (NP
+            (NP
+              (NP (NN ') (NN 苏德) (NN 条约))
+              (NP (NN ')))
+            (PU 、)
+            (NP
+              (NP (NR '))
+              (NP
+                (NP (NR 莫洛托夫) (PU —) (NR 里宾特洛甫))
+                (NP (NN 条约)))
+              (NP (NN ')))
+            (CC 或)
+            (NP
+              (NP (NR '))
+              (NP
+                (NP (NR 希特勒) (PU —) (NR 斯大林))
+                (NP (NN 条约)))
+              (NP (NN ')))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (NT 1940年))
+      (VP
+        (PP (P 根据)
+          (NP
+            (IP
+              (VP
+                (ADVP (AD 苏德))
+                (ADVP (AD 互))
+                (ADVP (AD 不))
+                (VP (VV 侵犯))))
+            (NP (NN 条约))))
+        (VP (LB 被)
+          (CP
+            (IP
+              (NP (NR 苏联))
+              (VP (VV 吞并)))))))
+    (PU ，)
+    (IP
+      (NP (NT 1941年))
+      (VP
+        (ADVP (AD 又))
+        (VP (LB 被)
+          (CP
+            (IP
+              (NP (NR 德国))
+              (VP (VV 占领)))))))
+    (PU ，)
+    (IP
+      (NP (NT 1944年))
+      (VP
+        (ADVP (AD 再次))
+        (VP (LB 被)
+          (CP
+            (IP
+              (NP (NR 苏联))
+              (VP (VV 吞并)))))))))
+
+(ROOT
+  (IP
+    (NP (NN *) (NN 出卖))
+    (VP (VV 木料) (PU ：)
+      (IP
+        (NP
+          (NP (PU （) (NR 英法) (PU ）))
+          (NP (PU 《) (NR 慕尼黑) (NN 协定) (PU 》)))
+        (VP (VV /)
+          (NP (PU 《)
+            (IP
+              (NP (NN 苏德))
+              (VP
+                (ADVP (AD 互))
+                (ADVP (AD 不))
+                (VP (VV 侵犯))))
+            (NP (NN 条约))
+            (PU 》)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV 莫言)
+      (NP
+        (CP
+          (IP
+            (VP (VV 获得)
+              (NP
+                (NP (NR 诺贝尔))
+                (NP (NN 文学) (NN 奖)))))
+          (DEC 的))
+        (NP (NN 年份)))
+      (IP
+        (VP (VC 是))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NN *))
+      (VP (VA 莫言)))
+    (PU ，)
+    (IP
+      (NP (NT 2012年))
+      (VP
+        (NP
+          (NP (NR 诺贝尔) (NN 文学) (NN 奖))
+          (NP (NN 得主)))))))
+
+(ROOT
+  (IP
+    (NP
+      (NP (NT *) (NT 10月) (NT 11日))
+      (PRN (PU ——)
+        (NP (NR 着名) (NR 中国) (NN 文学)))
+      (NP (NN 作家)))
+    (VP
+      (ADVP (AD 莫言))
+      (VP (VV 获得)
+        (NP
+          (NP (NR 诺贝尔))
+          (NP (NN 文学) (NN 奖)))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (VP (VV *)
+      (NP
+        (NP
+          (NP (NT 2012年))
+          (NP (NR 诺贝尔))
+          (NP (NN 文学) (NN 奖)))
+        (CC 与)
+        (NP (NR 莫言) (NR 诺贝尔) (NN 官方) (NN 网))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP (NN 元谋人) (NN 化石))
+    (VP (VV 发现)
+      (NP
+        (DNP
+          (PP (P 于)
+            (NP (NR 中国)))
+          (DEG 的))
+        (DP (DT 哪)
+          (QP (CD 一)))
+        (NP (NN 省份))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (NP
+        (DP (DT 另)
+          (QP (CD 一)
+            (CLP (M 种))))
+        (NP (NN 意见)))
+      (VP (VV 认为) (PU ，)
+        (IP
+          (VP
+            (PP (P 在)
+              (NP (NR 中)))
+            (VP (VV 更新世)))))
+      (PU 。))
+    (IP
+      (PP (P 因为)
+        (IP
+          (NP (NN 古地磁) (NN 年代))
+          (VP
+            (ADVP (AD 不))
+            (VP (VV 应)
+              (QP
+                (ADVP (AD 超过))
+                (QP (CD 73万)
+                  (CLP (M 年))))))))
+      (PU ，)
+      (PP (P 根据)
+        (NP
+          (DNP
+            (NP (NR 元谋人))
+            (DEG 的))
+          (NP (NN 化石) (NN 层))))
+      (PU ，)
+      (VP (VV 可能)
+        (QP
+          (ADVP (AD 距今))
+          (QP
+            (NP
+              (NP
+                (CP
+                  (IP
+                    (NP
+                      (NP (NT 60万～50万年))
+                      (CC 或)
+                      (NP
+                        (IP
+                          (VP
+                            (ADVP (AD 更))
+                            (VP (VA 晚))
+                            (PU 。)))
+                        (NP
+                          (NP (NN 刘东生))
+                          (ETC 等)))
+                      (PU ，)
+                      (NP (PU 《)
+                        (DNP
+                          (PP (P 关于)
+                            (NP (NN 元谋人) (NN 化石) (NN 地质) (NN 年代)))
+                          (DEG 的))
+                        (NP (NN 讨论))
+                        (PU 》))
+                      (PU ，)
+                      (NP (PU 《) (NN 人类学) (NN 学报) (PU 》)))
+                    (VP (VV 第)
+                      (QP (CD 2)
+                        (CLP (M 卷))))))
+                (NP (NN ()))
+              (QP (CD 1983))
+              (NP (NN ))))
+            (QP (OD 第1)
+              (CLP (M 期)))))))))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NT 1973年))
+      (PU ，)
+      (VP
+        (PP (P 在)
+          (LCP
+            (NP
+              (CP
+                (IP
+                  (VP (VV 发现)
+                    (NP (NN 元谋人) (NN 化石))))
+                (DEC 的))
+              (NP (NN 地层)))
+            (LC 中)))
+        (VP (VV 出土)
+          (NP (NN 石器))
+          (QP (CD 三)
+            (CLP (M 件))))))
+    (PU 。)
+    (IP
+      (ADVP (AD 另外))
+      (PU ，)
+      (VP
+        (PP (P 在)
+          (NP
+            (NP
+              (QP (CD 同一))
+              (NP (NN 地点)))
+            (NP (NN 采集))))
+        (VP (VV 到)
+          (VP (VV 石器)
+            (QP (CD 三)
+              (CLP (M 件)))))))
+    (PU ，)
+    (IP
+      (NP (NN 推测))
+      (VP (SB 被)
+        (VP (VV 雨水)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (VP
+                    (ADVP (AD 冲刷))
+                    (VP (VV 出)
+                      (NP (NN 地表))))
+                  (PU ，)
+                  (VP
+                    (ADVP (AD 也))
+                    (VP (SB 被)
+                      (VP (VV 视为)
+                        (NP (NN 元谋人)))))))
+              (DEC 的))
+            (NP (NN 石器))))))
+    (PU 。)))
+
+(ROOT
+  (IP
+    (IP
+      (NP (NR 元谋人))
+      (VP
+        (DVP
+          (VP (VV 发现))
+          (DEV 地))
+        (VP (VV 处于)
+          (NP (NN 元谋) (NN 盆地) (NN 边缘)))))
+    (PU ，)
+    (IP
+      (NP
+        (NP (NR 元谋))
+        (NP (NN 盆地)))
+      (VP
+        (ADVP (AD 新生代))
+        (VP
+          (VRD (VV 地层) (VV 出))
+          (NP (NN 露好)))))
+    (PU ，)
+    (IP
+      (NP (NN 化石))
+      (VP (VA 多)))
+    (PU ，)
+    (IP
+      (NP (NN 化石))
+      (VP (VV 发现)
+        (PP (P 于)
+          (LCP
+            (IP
+              (NP (NN 河湖))
+              (VP
+                (ADVP (AD 相))
+                (VP (VV 堆积))))
+            (LC 中)))))
+    (PU ，)
+    (IP
+      (NP (NN 堆积))
+      (VP
+        (ADVP (AD 自下而上))
+        (VP (VV 分为)
+          (QP (CD 4)
+            (CLP (M 段)))
+          (QP (CD 28)
+            (CLP (M 层))))))
+    (PU ，)
+    (IP
+      (NP (NN 元谋人) (NN 化石))
+      (VP (VV 处于)
+        (NP
+          (NP (NR 第))
+          (QP (CD 4)
+            (CLP (M 段)))
+          (NP (NN 第)))
+        (QP (CD 25)
+          (CLP (M 层)))))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NR 美国))
+        (DEG 的))
+      (ADJP (JJ 当代))
+      (NP (NN 人类学)))
+    (VP
+      (ADVP (AD 通常))
+      (VP (VV 划分)
+        (VP (VV 为)
+          (NP
+            (QP (CD 几))
+            (ADJP (JJ 大))
+            (NP (NN 分支))))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (IP
+      (PP (P 在)
+        (NP (NR 美国)))
+      (PU ，)
+      (NP
+        (ADJP (JJ 当代))
+        (NP (NN 人类学)))
+      (VP
+        (ADVP (AD 通常))
+        (VP (VV 划分)
+          (VP (VC 为)
+            (NP
+              (QP (CD 四))
+              (ADJP (JJ 大))
+              (NP (NN 分支)))))))
+    (PU ：)
+    (IP
+      (NP
+        (NP
+          (NP (NN 文化) (NN 人类学))
+          (PRN (PU （)
+            (VP
+              (ADVP (AD 也))
+              (VP (VV 称为)
+                (NP (NN 社会) (NN 人类学))))
+            (PU ）))
+          (PU 、)
+          (NP
+            (NP (NN 考古学) (PU 、) (NN 语言) (NN 人类学) (PU 、) (NN 生物) (NN 人类学) (NN /))
+            (NP (NN 体质))))
+        (NP (NN 人类学)))
+      (PU ，)
+      (NP
+        (DNP
+          (NP
+            (NP (NR CareerPathsandEducation) (NR 这个))
+            (QP (CD 四))
+            (ADJP (JJ 大))
+            (NP (NN 分支)))
+          (DEG 的))
+        (NP (NN 人类学)))
+      (VP
+        (ADVP (AD 也))
+        (VP (VV 反映)
+          (PP (P 在)
+            (NP
+              (QP (CD 许多))
+              (NP (NN 大学部) (NN 教科书)))))))
+    (PU ，)
+    (IP
+      (NP
+        (NP (NR Kottak) (NR ,))
+        (QP (CD Conrad2008))
+        (NP (NN Anthropology) (NN :)))
+      (VP (VV TheExplorationofHumanDiversity)
+        (NP (NN NewYork) (NN :) (NN McGrawHill))))))
+
+(ROOT
+  (IP
+    (NP (NN London) (NN :) (NN TheFreePress))
+    (PU ，)
+    (NP
+      (QP (CD 许多))
+      (NP (NR 美国))
+      (NP (NN 人类) (NN 学家)))
+    (VP
+      (VP
+        (VP (VV 採用)
+          (NP
+            (DNP
+              (NP (PN 他))
+              (DEG 的))
+            (NP (NN 论点))))
+        (VP (MSP 来)
+          (VP (VV 支持)
+            (NP (NN 社会) (NN 改革)))))
+      (PU ，)
+      (CC 而且)
+      (VP (VV 时至)
+        (IP
+          (IP
+            (NP (NT 今日))
+            (PU ，)
+            (NP (NN 种族) (NN 理论))
+            (VP
+              (ADVP (AD 依然))
+              (VP (VC 是)
+                (NP
+                  (DNP
+                    (NP (NN 人类) (NN 学家) (NN 热衷))
+                    (DEG 的))
+                  (NP (NN 研究) (NN 主题))))))
+          (PU ，)
+          (IP
+            (NP
+              (DNP
+                (ADJP (JJ 所谓))
+                (DEG 的))
+              (NP (NR 「))
+              (QP (CD 四))
+              (ADJP (JJ 大))
+              (NP (NN 分支) (NN 」) (NN 人类学)))
+            (VP (VV 源自于)
+              (NP (NN 鲍亚士) (NN 学派) (NN 人类学))))))
+      (PU ，)
+      (VP
+        (ADVP (AD 将))
+        (VP (VV 这个)
+          (VP (VV 学)
+            (NP
+              (CP
+                (IP
+                  (VP
+                    (ADVP (AD 门区))
+                    (VP (VV 分为)
+                      (NP
+                        (NP
+                          (QP (CD 四)
+                            (CLP (M 个)))
+                          (NP (NN 重要)))
+                        (CC 且)
+                        (NP
+                          (NP (PN 相互))
+                          (NP (NN 关联)))))))
+                (DEC 的))
+              (NP (NN 领域))))))
+      (PU ，)
+      (VP (VV 包括)
+        (NP (NN 社会) (NN 文化) (NN 人类学) (PU 、) (NN 体质) (NN 人类学) (PU 、) (NN 语言) (NN 人类学)
+          (CC 与)
+          (NN 史前) (NN 人类学))))
+    (PRN (PU （)
+      (NP (NN 考古学))
+      (PU ）))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP
+        (QP (CD 许多))
+        (NP (NR 美国))
+        (NP (NN 人类) (NN 学家)))
+      (VP
+        (VP (VV 採用)
+          (NP
+            (DNP
+              (NP (PN 他))
+              (DEG 的))
+            (NP (NN 论点))))
+        (VP (MSP 来)
+          (VP (VV 支持)
+            (NP (NN 社会) (NN 改革))))))
+    (PU ，)
+    (CC 而且)
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP (VV 时至)
+              (IP
+                (IP
+                  (NP (NT 今日))
+                  (PU ，)
+                  (NP (NN 种族) (NN 理论))
+                  (VP
+                    (ADVP (AD 依然))
+                    (VP (VC 是)
+                      (NP
+                        (DNP
+                          (NP (NN 人类) (NN 学家) (NN 热衷))
+                          (DEG 的))
+                        (NP (NN 研究) (NN 主题))))))
+                (PU ，)
+                (IP
+                  (NP
+                    (DNP
+                      (ADJP (JJ 所谓))
+                      (DEG 的))
+                    (NP (NR 「))
+                    (QP (CD 四))
+                    (ADJP (JJ 大))
+                    (NP (NN 分支) (NN 」) (NN 人类学)))
+                  (VP
+                    (VP (VV 源自于)
+                      (NP (NN 鲍亚士) (NN 学派) (NN 人类学)))
+                    (PU ，)
+                    (VP (BA 将)
+                      (IP
+                        (IP
+                          (VP
+                            (ADVP (AD 这个))
+                            (VP (VV 学)
+                              (NP
+                                (CP
+                                  (IP
+                                    (VP
+                                      (ADVP (AD 门区))
+                                      (VP (VV 分为)
+                                        (NP
+                                          (NP
+                                            (QP (CD 四)
+                                              (CLP (M 个)))
+                                            (NP (NN 重要)))
+                                          (CC 且)
+                                          (NP
+                                            (NP (PN 相互))
+                                            (NP (NN 关联)))))))
+                                  (DEC 的))
+                                (NP (NN 领域))))))
+                        (PU ，)
+                        (IP
+                          (VP (VV 包括)
+                            (NP (NN 社会) (NN 文化) (NN 人类学) (PU 、) (NN 体质) (NN 人类学) (PU 、) (NN 语言) (NN 人类学)
+                              (CC 与)
+                              (NN 史前) (NN 人类学))))
+                        (PRN (PU （)
+                          (NP (NN 考古学))
+                          (PU ）))))))
+                (PU ，)
+                (IP
+                  (NP
+                    (NP (NR 美国))
+                    (NP (NN 人类学)))
+                  (VP
+                    (ADVP (AD 持续))
+                    (VP (VV 受到)
+                      (NP
+                        (NP (NR 鲍亚士))
+                        (QP (CD 学派)
+                          (CLP
+                            (ADJP (JJ 传统))
+                            (CLP (M 所))))
+                        (ADJP (JJ 深刻))
+                        (NP (NN 影响))))))
+                (PU ，)
+                (PP
+                  (ADVP (AD 特别是))
+                  (PP (P 对于)
+                    (NP (NN 文化)))))))
+          (DEC 的)))
+      (VP (VV 强调)))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (VP (VV ))))
+
+(ROOT
+  (IP
+    (NP
+      (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+      (QP (CD 一))
+      (NP (NN 词)))
+    (VP
+      (ADVP (AD 最))
+      (VP (VA 早)
+        (IP
+          (VP
+            (PP (P 由)
+              (NP (PN 谁)))
+            (VP (VV 提出))))))
+    (PU ？)))
+
+(ROOT
+  (IP
+    (PRN (PU “) (NR 中华) (NN 民族) (PU ”))
+    (NP
+      (QP (CD 一))
+      (NP (NN 词)))
+    (VP (VE 有)
+      (IP
+        (IP
+          (NP
+            (QP (CD 两)
+              (CLP (M 种)))
+            (NP (NN 内涵)))
+          (VP
+            (ADVP (AD 略有))
+            (VP (VA 不同)
+              (NP
+                (CP
+                  (IP
+                    (VP
+                      (ADVP (AD 但))
+                      (ADVP (AD 又))
+                      (VP (VA 相关))))
+                  (DEC 的))
+                (NP (NN 含义))))))
+        (PU ，)
+        (IP
+          (QP (CD 一))
+          (VP (VC 是)
+            (VP (VV 指)
+              (NP (PU “) (NN 汉族) (PU ”)))))
+        (PU ，)
+        (IP
+          (QP (CD 一))
+          (VP (VC 是)
+            (NP
+              (CP
+                (IP
+                  (VP (VV 指)
+                    (NP
+                      (DNP
+                        (PP (P 以)
+                          (NP
+                            (NP
+                              (CP
+                                (IP
+                                  (NP (NR 汉人))
+                                  (VP (VC 为)
+                                    (NP (NN 主干))))
+                                (DEC 的))
+                              (NP (NR 中国))
+                              (NP (NN 境内)))
+                            (DP (DT 所有))
+                            (NP (NN 族裔))))
+                        (DEG 的))
+                      (NP (NN 人民)))))
+                (DEC 的))
+              (NP (NN 总称)))))
+        (PU ，)
+        (IP
+          (NP
+            (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+            (QP (CD 一))
+            (NP (NN 词)))
+          (PU ，)
+          (VP
+            (PP (P 由)
+              (NP (NR 梁启超)))
+            (ADVP (AD 首先))
+            (VP (VV 提出))))
+        (PU ，)
+        (IP
+          (NP (NR 其后))
+          (VP (VV 得到)
+            (NP
+              (UCP
+                (IP
+                  (NP (NR 杨))
+                  (VP (VV 度)))
+                (CC 和)
+                (NP (NN 章太炎))
+                (ETC 等))
+              (QP (CD 诸多))
+              (NP (NN 学者) (NN 阐释)
+                (CC 与)
+                (NN 政府) (NN 认可)))))
+        (PU ，)
+        (IP
+          (NP (NT 1905年))
+          (VP (VV 梁启超)
+            (IP
+              (PP (P 在)
+                (LCP
+                  (NP
+                    (NP (PU 〈)
+                      (DNP
+                        (NP
+                          (LCP
+                            (NP (NN 历史))
+                            (LC 上))
+                          (NP (NR 中国))
+                          (NP (NN 民族)))
+                        (DEG 之))
+                      (NP (NN 观察))
+                      (PU 〉))
+                    (QP (CD 一))
+                    (NP (NN 文)))
+                  (LC 中)))
+              (PU ，)
+              (VP
+                (VP (VV 使用) (AS 了)
+                  (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+                  (QP (CD 七)
+                    (CLP (M 次))
+                    (PRN (PU （)
+                      (IP
+                        (NP (NN 简称))
+                        (VP (VC 为)
+                          (NP (PU “) (NN 华族) (PU ”))))
+                      (PU ）))))
+                (PU ，)
+                (CC 并)
+                (VP
+                  (ADVP (AD 明确))
+                  (VP (VV 表示) (PU ：)
+                    (IP (PU “)
+                      (NP
+                        (DNP
+                          (NP (NT 今))
+                          (DEG 之))
+                        (NP (NR 中华))
+                        (NP (NN 民族)))
+                      (PU ，)
+                      (VP
+                        (ADVP (AD 即))
+                        (ADVP (AD 普遍))
+                        (VP (VV 俗称)
+                          (NP
+                            (ADJP (JJ 所谓))
+                            (NP (NN 汉族者)))))))))
+              (PU ”))))
+        (PU ，)
+        (IP
+          (VP (VC 是)
+            (IP
+              (IP (PU “)
+                (NP (PN 我))
+                (NP (NR 中国))
+                (VP (VA 主族)))
+              (PU ，)
+              (IP
+                (ADVP (AD 即))
+                (NP
+                  (ADJP (JJ 所谓))
+                  (NP (NN 炎黄)))
+                (VP (VA 遗族))))))))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+      (VP
+        (NP
+          (QP (CD 一))
+          (NP (NN 词)))))
+    (PU ，)
+    (IP
+      (PP (P 由)
+        (NP
+          (UCP
+            (IP
+              (NP (NR 梁启超))
+              (VP
+                (ADVP (AD 首先))
+                (VP (VV 提出) (PU ，)
+                  (IP
+                    (NP (NR 其后))
+                    (VP
+                      (VP (VV 得到)
+                        (NP (NR 杨)))
+                      (VP (VV 度)))))))
+            (CC 和)
+            (NP (NN 章太炎))
+            (ETC 等))
+          (QP (CD 诸多))
+          (NP (NN 学者) (NN 阐释)
+            (CC 与)
+            (NN 政府) (NN 认可))))
+      (PU ，)
+      (NP (NT 1905年))
+      (VP (VV 梁启超)
+        (VP
+          (PP (P 在)
+            (LCP
+              (NP
+                (NP (PU 〈)
+                  (DNP
+                    (NP
+                      (LCP
+                        (NP (NN 历史))
+                        (LC 上))
+                      (NP (NR 中国))
+                      (NP (NN 民族)))
+                    (DEG 之))
+                  (NP (NN 观察))
+                  (PU 〉))
+                (QP (CD 一))
+                (NP (NN 文)))
+              (LC 中)))
+          (PU ，)
+          (VP
+            (VP (VV 使用) (AS 了)
+              (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+              (QP (CD 七)
+                (CLP (M 次))
+                (PRN (PU （)
+                  (IP
+                    (NP (NN 简称))
+                    (VP (VC 为)
+                      (NP (PU “) (NN 华族) (PU ”))))
+                  (PU ）))))
+            (PU ，)
+            (CC 并)
+            (VP
+              (ADVP (AD 明确))
+              (VP (VV 表示) (PU ：)
+                (IP (PU “)
+                  (NP
+                    (DNP
+                      (NP (NT 今))
+                      (DEG 之))
+                    (NP (NR 中华))
+                    (NP (NN 民族)))
+                  (PU ，)
+                  (VP
+                    (ADVP (AD 即))
+                    (ADVP (AD 普遍))
+                    (VP (VV 俗称)
+                      (NP
+                        (ADJP (JJ 所谓))
+                        (NP (NN 汉族者)))))))))))
+      (PU ”))
+    (PU ，)
+    (IP
+      (VP (VC 是)
+        (IP
+          (IP (PU “)
+            (IP
+              (NP (PN 我))
+              (NP (NR 中国))
+              (VP (VA 主族)))
+            (PU ，)
+            (IP
+              (ADVP (AD 即))
+              (NP
+                (ADJP (JJ 所谓))
+                (NP (NN 炎黄)))
+              (VP (VA 遗族)))
+            (PU ，) (PU ”))
+          (PU ，)
+          (IP
+            (VP (VA 可知))))))
+    (PU ，)
+    (IP
+      (NP (NR 梁启超))
+      (VP (VV 认为)
+        (NP
+          (NP (NR 中华))
+          (NP (NN 民族)))
+        (IP
+          (VP
+            (ADVP (AD 就))
+            (VP (VV 等于)
+              (NP (NN 汉族)))))))))
+
+(ROOT
+  (IP
+    (IP (PU ，)
+      (NP (NT 1905年))
+      (VP
+        (ADVP (AD 梁启超))
+        (VP
+          (VP
+            (PP (P 在)
+              (LCP
+                (NP
+                  (NP (PU 〈)
+                    (DNP
+                      (NP
+                        (LCP
+                          (NP (NN 历史))
+                          (LC 上))
+                        (NP (NR 中国))
+                        (NP (NN 民族)))
+                      (DEG 之))
+                    (NP (NN 观察))
+                    (PU 〉))
+                  (QP (CD 一))
+                  (NP (NN 文)))
+                (LC 中)))
+            (PU ，)
+            (VP (VV 使用) (AS 了)
+              (NP (PU “) (NR 中华) (NN 民族) (PU ”))
+              (QP (CD 七)
+                (CLP (M 次))
+                (PRN (PU （)
+                  (IP
+                    (NP (NN 简称))
+                    (VP (VC 为)
+                      (NP (PU “) (NN 华族) (PU ”))))
+                  (PU ）)))))
+          (PU ，)
+          (CC 并)
+          (VP (VV 明确)
+            (IP
+              (VP (VV 表示) (PU ：)
+                (IP (PU “)
+                  (VP
+                    (NP
+                      (DNP
+                        (NP (NT 今))
+                        (DEG 之))
+                      (NP (NR 中华))
+                      (NP (NN 民族)))
+                    (PU ，)
+                    (ADVP (AD 即))
+                    (ADVP (AD 普遍))
+                    (VP (VV 俗称)
+                      (NP
+                        (ADJP (JJ 所谓))
+                        (NP (NN 汉族者)))))
+                  (PU ”))))))))
+    (PU ，)
+    (IP
+      (VP (VC 是)
+        (IP
+          (IP (PU “)
+            (IP
+              (NP (PN 我))
+              (NP (NR 中国))
+              (VP (VA 主族)))
+            (PU ，)
+            (IP
+              (ADVP (AD 即))
+              (NP
+                (ADJP (JJ 所谓))
+                (NP (NN 炎黄)))
+              (VP (VA 遗族)))
+            (PU ，) (PU ”))
+          (PU ，)
+          (IP
+            (VP (VV 可知) (PU ，)
+              (IP
+                (NP (NR 梁启超))
+                (VP
+                  (VP (VV 认为)
+                    (NP
+                      (NP (NR 中华))
+                      (NP (NN 民族)))
+                    (IP
+                      (VP
+                        (ADVP (AD 就))
+                        (VP (VV 等于)
+                          (NP (NN 汉族))))))
+                  (PU ，)
+                  (VP (VV 其后)))))))))
+    (PU ，)
+    (IP
+      (NP
+        (DNP
+          (NP
+            (NP
+              (NP (NR 中华))
+              (NP (NN 民族)))
+            (QP (CD 一))
+            (NP (NN 词)))
+          (DEG 的))
+        (NP (NN 内涵)))
+      (VP (VV 有所)
+        (NP
+          (CP
+            (IP
+              (VP
+                (VP (VV 扩大))
+                (PU ，)
+                (VP (VV 成为)
+                  (NP
+                    (DNP
+                      (PP (P 以)
+                        (NP
+                          (NP
+                            (CP
+                              (IP
+                                (NP (NR 汉人))
+                                (VP (VC 为)
+                                  (NP (NN 主干))))
+                              (DEC 的))
+                            (NP (NR 中国))
+                            (NP (NN 境内)))
+                          (DP (DT 所有))
+                          (NP (NN 族裔))))
+                      (DEG 的))
+                    (NP (NN 人民))))))
+            (DEC 的))
+          (NP (NN 总称)))))))
+
